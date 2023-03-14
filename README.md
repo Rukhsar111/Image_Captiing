@@ -1,4 +1,22 @@
-# Image_Captiing
+# Image_Captioning Using BLIP
+
+**BLIP is a language-image pre-training framework for unified vision-language understanding and generation. BLIP achieves state-of-the-art results on a wide range of vision-language tasks.**
+
+
+
+# It can Perform Various Tasks includes:
+
+**Image Captioning**
+
+**Text to Image Retrieval**
+
+**Visual Question Answering**
+
+
+
+
+
+
 Image Captiong and classification
 
 
